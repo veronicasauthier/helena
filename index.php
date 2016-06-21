@@ -3,6 +3,6 @@
 
 #index.php
 
-echo '<h1> Sper Projeto </h1>';
+echo '<h1> Super Projeto </h1>';
 
-echo 'hjaskdfhjkasdfhjksahfjkas';
+echo 'Este é um projeto super legal, bjs';
